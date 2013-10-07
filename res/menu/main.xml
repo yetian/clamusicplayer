@@ -1,0 +1,5 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/mlist" android:title="@string/music_list" android:enabled="true" android:visible="true"></item>
+    <item android:id="@+id/about" android:title="@string/about_us" android:enabled="true" android:visible="true"></item>
+
+</menu>

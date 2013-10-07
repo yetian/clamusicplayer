@@ -10,3 +10,9 @@ Preview:
 
 [preview1]: ../master/PreviewImage/v2_preview1_20131007.jpg "Preview 1"
 [preview2]: ../master/PreviewImage/v2_preview2_20131007.jpg "Preview 2"
+
+# Author
+
+Smeister solaris.navi@gmail.com
+
+THFP theheavenflypig@gmail.com
